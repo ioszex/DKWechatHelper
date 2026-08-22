@@ -1,0 +1,9 @@
+Package: com.dkjone.dkhelper
+Name: dkhelper
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: 微信小助手（DKHelper）：红包、好友检测、聊天背景等功能。由 Logos + CaptainHook 注入微信。
+Maintainer: DKJone
+Author: DKJone (朱德坤)
+Section: Tweaks
